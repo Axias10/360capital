@@ -1,0 +1,99 @@
+
+
+============================================================
+PAGE 1
+============================================================
+
+# Description 
+
+Guidoio is the first online platform that helps you get your car license, removing the complexity and bureaucratic hassles, making the process cheaper than a traditional driving school and much easier than the do-it-yourself private driver.
+
+## Main developments
+
+// Please update //
+
+## Summary
+
+| Website | https://guidoio.com |
+| :-- | :--: |
+| Location | Italy |
+| Stage of initial | Pre-Seed |
+| investment |  |
+| Role in the initial | Lead |
+| investment |  |
+| Amount invested | $1,3 \mathrm{M} €$ |
+| Fair Value | $1,3 \mathrm{M} €$ |
+| Multiple | $1,04 x$ |
+| Fair Value |  |
+| (Bol rules) | $1,3 \mathrm{M} €$ |
+| Valuation comment |  |
+| At cost: Bol rules // Last round is a Series A round |  |
+| with a €8M pre-money valuation and a total |  |
+| financing round of €3.65M. |  |
+
+
+|  |  |
+| :-- | :--: |
+| Management | Lorenzo Mannari - Co- <br> founder <br> Franz Ludwig Uhl - Co- <br> founder |
+| Board member | Lucrezia Lucotti |
+| Board observer | n.a. |
+| Business field | Consumer Internet \& E- <br> commerce |
+
+
+| Financials year-to-date (M€) | 12-2023 | 12-2024 | 09-2025 | 09-2025 |
+| :--: | :--: | :--: | :--: | :--: |
+| AMR |  | 0,2 | 0,2 |  |
+| Revenue | 0,0 | 0,2 | 0,1 |  |
+| EBITDA | - | $(0,4)$ | - |  |
+| Financial debt | - | - | - | \#VALEUR! |
+| Cash | 0,4 | 0,2 | 0,3 |  |
+| FTE |  | 6 | 9 |  |
+| Date of Investment | Stage/Type | Invested amount (€35) | Pre-money Valuation (€35) | Total size of the round (€35) |
+| 10-2024 | Pre-Seed | 0,2 |  | 1 |
+| 05-2025 | Secondary | 0,1 |  | 0 |
+| 05-2025 | Pre-Seed | 0,3 |  | 1 |
+| 07-2025 | Series A | 0,8 | 8 | 4 |
+
+
+| Investor name | Ownership |
+| :--: | :--: |
+| Founders and Management | 42,69\% |
+| ESOP | 15,64\% |
+| 360 DICITALY | 13,76\% |
+| 360 SICAF | 13,76\% |
+| Other Investors | 9,09\% |
+| GE | 3,50\% |
+| Vesper | 1,56\% |
+
+============================================================
+PAGE 2
+============================================================
+
+# Description 
+
+Jampy has developed a line of plant-based, plastic-free dog care products with the goal of becoming the destination for modern dog wellness in an industry that has never seen innovation on this product range.
+
+## Main developments
+
+// Please update //
+
+## Summary
+
+| Website | https://getjampy.com/it-fr | 12-2023 | 12-2024 | 09-2025 | 09-2026 |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Location | Italy |  |  |  |  |
+| Stage of initial investment | Pre-Seed |  | 0,0 | 0,0 | 0,0 |
+|  |  | 0,1 | 0,2 | 0,1 | 0,2 |
+| Role in the initial investment | Lead | EBITDA | - | $(0,3)$ | - $\quad(0,2)$ |
+|  |  | Financial debt | - | - | - |
+| Amount invested | 0,4 M€ | Cash | 0,3 | 0,4 | 0,5 |
+| Fair Value | 0,4 M€ | FTE | 3 | 4 | 4 |
+| Multiple | 1,00x |  |  |  |  |
+| Fair Value (Bol rules) | 0,4 M€ |  |  |  |  |
+| Valuation comment |  |  |  |  |  |
+| At cost: Q4 2024 investment |  |  |  |  |  |
+| Management | Rosa Scelsa - Co-founder <br> Federica Signoriello - Cofounder |  |  |  |  |
+|  |  |  |  |  |  |
+| Board member | n.a. |  |  |  |  |
+| Board observer | n.a. |  |  |  |  |
+| Business field | Consumer Internet \& Ecommerce |  |  |  |  |
